@@ -84,18 +84,12 @@ Le projet est divisé en plusieurs domaines spécifiques :
 ## 🔗 Liens Utiles
 
 📄 **Documentation & Organisation**  
-➡ [Google Docs](https://docs.google.com/document/d/1c_2ppuIT3E9pp6ZNnX-7VzV8bTorZlhN7kKHOdiDUgU/edit?tab=t.l6x6zdx2wss)  
+➡ [Google Docs] 
 
 🎨 **Design UI**  
-➡ [Figma](https://www.figma.com/proto/5iaNvVvNolBQGIhYoBzMJ7/Projet-Transverse?t=RdrZv00osE9omSGz-1&scaling=min-zoom&content-scaling=fixed&page-id=108%3A189&node-id=126-143&starting-point-node-id=126%3A143)  
+➡ [Figma] 
 
 📋 **Gestion du projet**  
-➡ [Trello](https://trello.com/invite/b/67b373e98c14354f8b719270/ATTI4a2b470552a1d4217687f450f279356f7850FB59/projet-transverse)  
+➡ [Trello]
 
 ---
-
-## 🚀 Comment Contribuer ?
-
-1. **Cloner le projet**  
-   ```bash
-   git clone https://github.com/FlaZaY29/s2-sae-dev-app-ef5.git
